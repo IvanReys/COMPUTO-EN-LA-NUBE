@@ -1,0 +1,14 @@
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\bin\Debug\net9.0\Cena de Filosofos.exe
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\bin\Debug\net9.0\Cena de Filosofos.deps.json
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\bin\Debug\net9.0\Cena de Filosofos.runtimeconfig.json
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\bin\Debug\net9.0\Cena de Filosofos.dll
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\bin\Debug\net9.0\Cena de Filosofos.pdb
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\obj\Debug\net9.0\Cena de Filosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\obj\Debug\net9.0\Cena de Filosofos.AssemblyInfoInputs.cache
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\obj\Debug\net9.0\Cena de Filosofos.AssemblyInfo.cs
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\obj\Debug\net9.0\Cena de Filosofos.csproj.CoreCompileInputs.cache
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\obj\Debug\net9.0\Cena de Filosofos.dll
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\obj\Debug\net9.0\refint\Cena de Filosofos.dll
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\obj\Debug\net9.0\Cena de Filosofos.pdb
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\obj\Debug\net9.0\Cena de Filosofos.genruntimeconfig.cache
+C:\Users\VetaR\Documents\Escuela\Cena de Filosofos\obj\Debug\net9.0\ref\Cena de Filosofos.dll
